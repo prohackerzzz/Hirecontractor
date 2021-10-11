@@ -1,1 +1,2 @@
 # Hirecontractor
+This is project was actually my idea which I shared with a friend who's in final year of his BSc Comnputer Science. He wanted a project I suggested him this php based project he got his teachers permission to start building the project. Then he asked me to build the project and I'd learnt so much from this project. I am really excited to put this project online. While making this project I learnt much about php. Overall working on this was really exciting and amazing.
