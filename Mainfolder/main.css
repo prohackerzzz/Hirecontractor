@@ -1,0 +1,67 @@
+.cards{
+    height: 300px;
+    width: 90%;
+    border: solid black 2px;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+.row1{
+    color: black;
+    margin-top: 10px;
+    margin-left: 30px;
+    height: 50px;
+    width: 90% ;
+}
+.row1 img{
+    border-radius: 50%;
+} 
+.row1 label{
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.row2{
+    margin-left: 30px;
+    margin-top: 20px;
+    height: 80px;
+    
+    width: 90% ;
+    font-weight: bolder;
+}
+.row2 i{
+    margin-top: 10px;
+    
+}
+.row3{
+    margin-left: 30px;
+    margin-top: 20px;
+    height: 100px;
+    width: 90% ;
+}
+#but{
+    background-color: black;
+    float: right;
+    border-radius: 5px;
+    border: 1px solid black;
+    color: white;
+}
+.cent{
+    text-align: center;
+}
+.but{
+    color: white;
+    padding: 20px;
+    
+}
+.new{
+    background-color: black;
+    display: inline-block;
+    float: right;
+    font-size: 20px;
+    border-radius: 5px;
+}
+a:hover{
+    color: black;
+}

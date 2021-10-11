@@ -1,0 +1,10 @@
+.contain{
+    margin-left: -340px;
+    margin-top: 20px;
+    position: absolute;
+    border: solid black 1px;
+    height: 300px;
+    width: 200px;
+    background-color: beige;
+    border-radius: 5px;
+}

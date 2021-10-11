@@ -1,0 +1,18 @@
+#date{
+    top: 90%;
+}
+.date{
+    margin-top: 700px;
+    margin-left: 50%;
+}
+h1{
+    margin-top: 100px;
+}
+.date{
+    margin-left: 10px;
+    float: left;
+}
+.sign{
+    margin-top: 98%;
+    float: right;
+}
